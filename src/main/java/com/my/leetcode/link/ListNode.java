@@ -1,4 +1,4 @@
-package com.my.leetcode.bytedance;
+package com.my.leetcode.link;
 
 public class ListNode {
 

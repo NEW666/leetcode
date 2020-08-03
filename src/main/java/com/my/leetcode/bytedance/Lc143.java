@@ -1,5 +1,7 @@
 package com.my.leetcode.bytedance;
 
+import com.my.leetcode.link.ListNode;
+
 public class Lc143 {
 
     public void reorderList(ListNode head) {

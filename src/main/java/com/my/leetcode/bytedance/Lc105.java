@@ -1,5 +1,7 @@
 package com.my.leetcode.bytedance;
 
+import com.my.leetcode.common.TreeNode;
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -27,7 +29,7 @@ public class Lc105 {
 
     Map<Integer,Integer> indexMap = new HashMap<>();
 
-    public TreeNode mybuildTree(int[] preorder, int[] inorder,int preLeft,int preRight,int inLeft,int inRight){
+    public TreeNode mybuildTree(int[] preorder, int[] inorder, int preLeft, int preRight, int inLeft, int inRight){
         if(preLeft > preRight){
             return null;
         }
