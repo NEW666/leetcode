@@ -1,4 +1,4 @@
-package com.my.leetcode.common;
+package com.my.leetcode.bytedance;
 
 /**
  * @author: whgong

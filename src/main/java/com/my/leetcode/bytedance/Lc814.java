@@ -1,7 +1,5 @@
 package com.my.leetcode.bytedance;
 
-import com.my.leetcode.common.TreeNode;
-
 /**
  * @author: whgong
  * @description:

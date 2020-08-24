@@ -1,7 +1,5 @@
 package com.my.leetcode.bytedance;
 
-import com.my.leetcode.common.TreeNode;
-
 /**
  * 124. 二叉树中的最大路径和
  * 给定一个非空二叉树，返回其最大路径和。

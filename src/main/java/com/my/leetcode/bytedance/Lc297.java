@@ -1,7 +1,5 @@
 package com.my.leetcode.bytedance;
 
-import com.my.leetcode.common.TreeNode;
-
 import java.util.LinkedList;
 
 /**
